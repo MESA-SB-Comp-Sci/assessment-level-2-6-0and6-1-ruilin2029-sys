@@ -1,35 +1,27 @@
 * {
     box-sizing: border-box;
 }
+html{
+    background-color: gray;
+}
 #title{
     background-color: pink;
     color:white;
-}
-.b{
-    background-color: gray;
-}
 .p1{
-    background-color: gray;
     color:yellow;
 }
 .p2{
-    background-color: gray;
     color:greenyellow;
 }
 .p3{
-    background-color: gray;
     color:skyblue;
 }
 .border1{
-    width:1200px;
-    height:100px;
     background-color: white;
-    padding:10px;
-    border:10px;
-    border-style:solid;
-    border-color:orange;
+    padding-bottom: 30px;
+    border:5px solid orange;
+    margin:10px;
 }
-.p4{
-    background-color: gray;
+.footer{
     color:white;
 }
